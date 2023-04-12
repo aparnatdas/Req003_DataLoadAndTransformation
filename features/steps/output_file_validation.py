@@ -22,7 +22,7 @@ def reading_output_file(context, output_file):
 
 
 @then('The user validates the Output File data against the InputFiles data')
-def test_method(context):
+def validating_output_file(context):
     input_df1 = context.input_df1
     input_df2 = context.input_df2
     output_df = context.output_df
