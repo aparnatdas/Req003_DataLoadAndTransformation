@@ -33,12 +33,10 @@ Run/Debug Configurations
 Allure Reports are used for Reporting
 
 Local reports can be generated with the following command
-
-behave -f allure_behave.formatter:AllureFormatter -o my_allure
+"behave -f allure_behave.formatter:AllureFormatter -o my_allure"
 
 Allure reports can be hosted by
-
-allure serve my_allure
+"allure serve my_allure"
 
 Sample Report
 
