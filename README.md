@@ -38,6 +38,5 @@ Local reports can be generated with the following command
 Allure reports can be hosted by
 "allure serve my_allure"
 
-Sample Report
-
+Allure Report
 ![img.png](img.png)
